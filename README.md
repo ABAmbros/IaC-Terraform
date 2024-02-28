@@ -1,6 +1,8 @@
-# IaC-Terraform
+![Alt text](<img/Captura de pantalla 2024-02-28 a las 12.38.50.png>)
 
-# 🚀 Explorando la Sinergia de Terraform y AWS: Construyendo Infraestructuras en la Nube con Maestría ⚙️
+# IaC-Terraform-AWS
+
+## 🚀 Explorando la Sinergia de Terraform y AWS: Construyendo Infraestructuras en la Nube con Maestría ⚙️
 
 Adentrémonos en el fascinante y dinámico entorno de Terraform y AWS, donde los Módulos Terraform se destacan como auténticos arquitectos digitales, comparables a las recetas maestras para la construcción en la nube. Estos módulos, verdaderas joyas en nuestro repertorio, desempeñan un papel fundamental al proporcionar modularidad y simplificar el mantenimiento del código de infraestructura.
 
